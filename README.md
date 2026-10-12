@@ -1,5 +1,4 @@
 # combating-money-laundering-bangladesh
-Academic research on anti-money laundering laws, enforcement challenges and legal reforms in Bangladesh.
 Combating Money Laundering in Bangladesh: Challenges, Legal Responses and the Way Forward
 
 Author: Majharul Islam
